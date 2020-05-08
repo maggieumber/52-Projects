@@ -1,11 +1,3 @@
-// function setup() {
-//   createCanvas(600, 1200);
-// }
-
-// function draw() {
-//   background(0);
-// }
-
 var myFont;
 
 function preload() {
