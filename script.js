@@ -10,9 +10,10 @@ function setup() {
 
 function draw() {
   background(50);
-  strokeWeight(2);
   fill(255);
+  textAlign(LEFT);
   textFont(myFont);
-  textSize(60);
-  text("52 PROJECTS", 50, 200);
+  textSize(100);
+  text("52", 50, 200);
+  text("PROJECTS", 50, 400);
 }
